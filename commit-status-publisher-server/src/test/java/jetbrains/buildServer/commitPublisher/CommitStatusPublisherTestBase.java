@@ -179,7 +179,6 @@ public class CommitStatusPublisherTestBase extends BaseServerTestCase {
       return null;
     }
 
-    @Override
     public boolean isDefaultExcluded() { return false; }
   }
 
